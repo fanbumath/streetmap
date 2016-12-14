@@ -1,6 +1,6 @@
 # How to use ``Parrots``
 
-In this tutorial,
+In this document,
 we will demonstrate how to use Parrots for deep learning research.
 
 ### Contents
@@ -13,10 +13,26 @@ we will demonstrate how to use Parrots for deep learning research.
 
 ## Data preparation
 
+Create ``train.txt`` and ``val.txt``
+
 ## Model preparation
+
+Create ``model.yaml``
+
+``visdnn``
 
 ## Training strategy
 
+Create ``session.yaml``
+
 ## Train, monitor, tune
 
+``parrots train``
+
+``parrots resume``
+
+[``pavi``](http://pavi.goforget.com)
+
 ## Extract, test
+
+Create ``test.txt`` and ``extract.yaml``.
