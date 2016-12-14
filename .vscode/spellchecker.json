@@ -1,0 +1,19 @@
+{
+    "language": "en_US",
+    "ignoreWordsList": [
+        "frob",
+        "time1",
+        "time2",
+        "yaml",
+        "Kaggle",
+        "Streetmap"
+    ],
+    "documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "ignoreRegExp": [],
+    "ignoreFileExtensions": [],
+    "checkInterval": 5000
+}

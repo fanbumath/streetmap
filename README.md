@@ -1,2 +1,2 @@
-# streetmap
-classify street map images, kaggle julia competition
+# Streetmap
+classify street map images, Kaggle Julia competition.
